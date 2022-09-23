@@ -1,5 +1,7 @@
 # vearch_docker
 
+vearch for MacOS 11.2 使用通过
+
 1. sh docker-init.sh
 
 2. check cluster stats
